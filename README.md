@@ -2,7 +2,7 @@
 
 SwingBeats is a full-featured desktop music player built with **Java Swing**, **MySQL**, and **JDBC**. It features secure authentication, user playlists, an admin control panel, and `.wav` music playback — all wrapped in a stylish dark-themed UI.
 
-![SwingBeats Banner](images/music_player.png)
+![SwingBeats Banner](images/music_player.jpeg)
 
 ---
 
