@@ -26,7 +26,7 @@ SwingBeats is a full-featured desktop music player built with **Java Swing**, **
 - 🎨 **Modern UI**  
   Custom-designed dark-themed interface built using Java Swing.
 
-<!-- ![App Screenshot - Home](images/home-ui.png) -->
+![App Screenshot - Home](images/home.png)
 
 ---
 
@@ -102,14 +102,14 @@ SwingBeats/
      ```
 
 ---
-<!-- 
+
 ## 🖼️ UI Snapshots
 
-| Login Page                     | Music Player Screen              | Admin Dashboard                 |
+| Login Page                    | User Dashboard                   | Admin Dashboard                 |
 |-------------------------------|----------------------------------|---------------------------------|
-| ![Login](images/login.png)    | ![Player](images/player.png)     | ![Admin](images/admin.png)      |
+| ![Login](images/login.png)    | ![Player](images/user.png)     | ![Admin](images/admin.png)      |
 
---- -->
+--- 
 
 ## 🔒 Security Notes
 
